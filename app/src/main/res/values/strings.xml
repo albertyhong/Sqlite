@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="empty_table">The table has no rows.</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_append">Append a new row</string>
+    <string name="action_delete_all">Delete all rows</string>
+
+    <string name="dialog_title">Enter a name</string>
+    <string name="dialog_message">Enter the first name of a user</string>
+
+    <string name="hint">Type answer here and press Done.</string>
+</resources>
